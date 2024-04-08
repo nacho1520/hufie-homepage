@@ -1,4 +1,4 @@
-# Alarado Home Page
+# Hufie Home Page
 
 A responsive home page made with HTML and SASS for styling. This is a challenge for [devChallenges](https://devchallenges.io/)
 
