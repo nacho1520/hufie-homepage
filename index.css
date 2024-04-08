@@ -4,6 +4,7 @@
 }
 
 body {
+  background-color: #F6F7FB;
   padding-top: 24px;
   display: flex;
   flex-direction: column;
