@@ -7,8 +7,8 @@ A responsive home page made with HTML and SASS for styling. This is a challenge 
 * HTML
 * SASS
 
-![LightMode](https://github.com/nacho1520/alarado-homepage/blob/main/public/desk-light.png)
+![Shot](https://github.com/nacho1520/hufie-homepage/blob/main/public/shot1.png)
 
 ### Mobile:
 
-![Mobile](https://github.com/nacho1520/alarado-homepage/blob/main/public/mobile.png)
+![Mobile](https://github.com/nacho1520/hufie-homepage/blob/main/public/shot2.png)
